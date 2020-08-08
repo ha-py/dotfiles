@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+
+Anaconda
+
 # Install command-line tools using Homebrew.
 
 # Make sure we’re using the latest Homebrew.
